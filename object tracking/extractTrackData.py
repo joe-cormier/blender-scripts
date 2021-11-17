@@ -8,6 +8,9 @@ D = bpy.data
 """
 Export track x,y coordinates created from a 2D object tracking
 Creates a dataframe containing all tracks within the movieclips object
+coordinates are % of image widght / height
+to get in units of length, multiply x-coordinates by image width in length units (meters)
+and y-coordinates by image height in length units
 """
 
 outputFolder= "<path>"
