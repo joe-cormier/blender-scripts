@@ -1,6 +1,6 @@
 ### blender-scripts
 
-General repository containing Blender python scripts for extacting track data and manipulating object motion
+General repository containing Blender python scripts for extacting track data and manipulating object motion  
 Blender 2.91 uses Python 3.7.7
 
 ### Required Python packages
